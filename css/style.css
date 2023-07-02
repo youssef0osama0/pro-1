@@ -519,7 +519,7 @@ li.active{
 }
 .sec-7-price-div{
     width: 25%;
-    height: 60%;
+    height: 495;
     float: left;
     margin-left:6.25% ;
     /* border: 5px solid black; */
@@ -549,7 +549,7 @@ li.active{
 .sec-7-price-div ul{
     list-style: none;
     text-align: left;
-    margin-top:45% ;
+    margin-top:150 ;
 }
 .sec-7-price-div ul li {
     margin: 9 0;
@@ -578,7 +578,7 @@ li.active{
     background-color: rgba(141, 141, 141, 0.274);
     padding-top: 30px;
     position: absolute;
-    top: 35%;
+    top: 185;
     left: 50%;
     transform: translate(-50%,-50%);
 }
@@ -763,16 +763,19 @@ li.active{
     width: 100%;
     height: 50%;
     background-image: url(../img/blog1.jpg);
+    background-size: cover;
 }
 .sec-9-news-img2{
     width: 100%;
     height: 50%;
     background-image: url(../img/blog2.jpg);
+    background-size: cover;
 }
 .sec-9-news-img3{
     width: 100%;
     height: 50%;
     background-image: url(../img/blog3.jpg);
+    background-size: cover;
 }
 .sec-9-news-date{
     background-color: #1a76d1;
